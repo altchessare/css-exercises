@@ -1,0 +1,15 @@
+.pclass{
+    background-color: pink;
+    font-family: Verdana, DejaVu, sans-serif;
+}
+
+#idone{
+    color: blue;
+    font-size: 36px;
+}
+
+#idtwo{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
